@@ -6,6 +6,7 @@ This is Yuri's repo!
   <img src="./transfer345.png" width="550" title="hover text">
 </p>
 
+I spend most of my time designing spacecraft trajectories. 
 
 <!--
 ### About my GitHub
