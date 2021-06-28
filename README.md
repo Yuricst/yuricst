@@ -12,7 +12,7 @@ I spend most of my time designing spacecraft trajectories.
 - [joptimise](https://github.com/Yuricst/joptimise): Ipopt/SNOPT wrapper in Julia
 - [pygmo-helper](https://github.com/Yuricst/pygmo-helper): helper for constructing problems in `pygmo`
 - [polaris](https://github.com/Yuricst/polaris): R3BP astrodynamics library written in Python
-- [fortran-astrodynamics](https://github.com/Yuricst/fortran-astrodynamics): Fortran subroutines for doing astrodynamics homework faster! 
+- [fortran-fantome](https://github.com/Yuricst/fortran-astrodynamics): Fortran subroutines for doing astrodynamics homework faster! 
 
 
 ### For fun
