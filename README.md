@@ -13,7 +13,7 @@ I spend most of my time designing spacecraft trajectories.
 - [pygmo-helper](https://github.com/Yuricst/pygmo-helper): helper for constructing problems in `pygmo`
 - [polaris](https://github.com/Yuricst/polaris): R3BP astrodynamics library written in Python
 - [fortran-fantome](https://github.com/Yuricst/fortran-astrodynamics): Fortran subroutines for doing astrodynamics homework faster! 
-
+- [trajplotlib](https://github.com/Yuricst/trajplotlib): helper toolkit for trajectory plots using matplotlib
 
 ### For fun
 - [nadesiko-kidou](https://github.com/Yuricst/nadesiko-kidou): Trajectory design in nadesiko3
