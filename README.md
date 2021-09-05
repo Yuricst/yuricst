@@ -9,13 +9,18 @@ This is Yuri's repo!
 I spend most of my time designing spacecraft trajectories. 
 
 ### Useful modules
-- [joptimise](https://github.com/Yuricst/joptimise): Ipopt/SNOPT wrapper in Julia
+
+#### Python
+- [parivp](https://github.com/Yuricst/parivp) solving IVPs in parallel in Python
 - [pygmo-helper](https://github.com/Yuricst/pygmo-helper): helper for constructing problems in `pygmo`
 - [polaris](https://github.com/Yuricst/polaris): R3BP astrodynamics library written in Python
-- [fortran-fantome](https://github.com/Yuricst/fortran-astrodynamics): Fortran subroutines for doing astrodynamics homework faster! 
 - [trajplotlib](https://github.com/Yuricst/trajplotlib): helper toolkit for trajectory plots using matplotlib
 
-### For fun
+#### Julia
+- [joptimise](https://github.com/Yuricst/joptimise): Ipopt/SNOPT wrapper in Julia
+
+#### Misc
+- [fortran-fantome](https://github.com/Yuricst/fortran-astrodynamics): Fortran subroutines for doing astrodynamics homework faster! 
 - [nadesiko-kidou](https://github.com/Yuricst/nadesiko-kidou): Trajectory design in nadesiko3
 
 <!--
