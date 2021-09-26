@@ -18,6 +18,7 @@ I spend most of my time designing spacecraft trajectories.
 
 #### Julia
 - [joptimise](https://github.com/Yuricst/joptimise): Ipopt/SNOPT wrapper in Julia
+- [NLPJuMP](https://github.com/Yuricst/jump-nlp): helper for formulating NLP with JuMP
 
 #### Misc
 - [fortran-fantome](https://github.com/Yuricst/fortran-astrodynamics): Fortran subroutines for doing astrodynamics homework faster! 
