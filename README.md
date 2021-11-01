@@ -18,6 +18,7 @@ I spend most of my time designing spacecraft trajectories.
 
 #### Julia
 - [joptimise](https://github.com/Yuricst/joptimise): Ipopt/SNOPT wrapper in Julia
+- [juali-R3BP](https://github.com/Yuricst/julia-R3BP): Trajectory design in three-body dynamics with Julia
 - [NLPJuMP](https://github.com/Yuricst/jump-nlp): helper for formulating NLP with JuMP
 
 #### MATLAB
