@@ -8,7 +8,7 @@ This is Yuri's repo!
 
 I spend most of my time designing spacecraft trajectories. 
 
-### Useful modules
+### Useful public modules
 
 #### Python
 - [parivp](https://github.com/Yuricst/parivp) solving IVPs in parallel in Python
