@@ -12,8 +12,8 @@ I spend most of my time designing spacecraft trajectories.
 
 #### Python
 - [parivp](https://github.com/Yuricst/parivp) solving IVPs in parallel in Python
-- [pygmo-helper](https://github.com/Yuricst/pygmo-helper): helper for constructing problems in `pygmo`
-- [polaris](https://github.com/Yuricst/polaris): R3BP astrodynamics library written in Python
+- [polaris](https://github.com/Yuricst/polaris): custom astrodynamics library implemented in Python
+- [pygmo-helper](https://github.com/Yuricst/pygmo-helper): helper for constructing problems in [`pygmo`](https://esa.github.io/pygmo2/)
 - [trajplotlib](https://github.com/Yuricst/trajplotlib): helper toolkit for trajectory plots using matplotlib
 
 #### Julia
