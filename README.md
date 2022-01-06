@@ -18,15 +18,15 @@ I spend most of my time designing spacecraft trajectories.
 
 #### Julia
 - [joptimise](https://github.com/Yuricst/joptimise): Ipopt/SNOPT wrapper in Julia
-- [julia-R3BP](https://github.com/Yuricst/julia-R3BP): Trajectory design in three-body dynamics with Julia
-- [NLPJuMP](https://github.com/Yuricst/jump-nlp): helper for formulating NLP with JuMP
+- [julia-R3BP](https://github.com/Yuricst/julia-R3BP): trajectory design in three-body dynamics with Julia
+- [NLPSaUT](https://github.com/Yuricst/NLPSaUT): wrapper for formulating NLP with JuMP
 
 #### MATLAB
-- [memoize-fmincon](https://github.com/Yuricst/memoize-fmincon): Memoized fmincon wrapper for optimization with complex objective & constraint functions
+- [memoize-fmincon](https://github.com/Yuricst/memoize-fmincon): memoized fmincon wrapper for optimization with complex objective & constraint functions
 
 #### Misc
 - [fortran-fantome](https://github.com/Yuricst/fortran-astrodynamics): Fortran subroutines for doing astrodynamics homework faster! 
-- [nadesiko-kidou](https://github.com/Yuricst/nadesiko-kidou): Trajectory design in nadesiko3
+- [nadesiko-kidou](https://github.com/Yuricst/nadesiko-kidou): trajectory design in nadesiko3
 
 <!--
 ### About my GitHub
