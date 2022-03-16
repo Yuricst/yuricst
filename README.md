@@ -28,6 +28,10 @@ I spend most of my time designing spacecraft trajectories.
 - [fortran-fantome](https://github.com/Yuricst/fortran-astrodynamics): Fortran subroutines for doing astrodynamics homework faster! 
 - [nadesiko-kidou](https://github.com/Yuricst/nadesiko-kidou): trajectory design in nadesiko3
 
+
+### Work
+- [Rsearch Gate](https://www.researchgate.net/profile/Yuri-Shimane)
+
 <!--
 ### About my GitHub
 
