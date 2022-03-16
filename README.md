@@ -31,6 +31,8 @@ I spend most of my time designing spacecraft trajectories.
 
 ### Work
 - [Rsearch Gate](https://www.researchgate.net/profile/Yuri-Shimane)
+- [Google Scholar](https://scholar.google.com/citations?user=mNEn9XwAAAAJ&hl=en)
+
 
 <!--
 ### About my GitHub
