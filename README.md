@@ -20,6 +20,7 @@ I spend most of my time designing spacecraft trajectories.
 - [joptimise](https://github.com/Yuricst/joptimise): Ipopt/SNOPT wrapper in Julia
 - [julia-R3BP](https://github.com/Yuricst/julia-R3BP): trajectory design in three-body dynamics with Julia
 - [NLPSaUT](https://github.com/Yuricst/NLPSaUT): wrapper for formulating NLP with JuMP
+- [PLOTLAB](https://github.com/Yuricst/PLOTLAB): plotting with MATLAB engine from Julia
 
 #### MATLAB
 - [memoize-fmincon](https://github.com/Yuricst/memoize-fmincon): memoized fmincon wrapper for optimization with complex objective & constraint functions
