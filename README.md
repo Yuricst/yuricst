@@ -11,6 +11,7 @@ I spend most of my time designing spacecraft trajectories.
 ### Useful public modules
 
 #### Python
+- [pyqlaw](https://github.com/Yuricst/pyqlaw) jit-compiled q-law for low-thrust transfers
 - [parivp](https://github.com/Yuricst/parivp) solving IVPs in parallel in Python
 - [polaris](https://github.com/Yuricst/polaris): custom astrodynamics library implemented in Python
 - [pygmo-helper](https://github.com/Yuricst/pygmo-helper): helper for constructing problems in [`pygmo`](https://esa.github.io/pygmo2/)
