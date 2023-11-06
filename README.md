@@ -8,7 +8,7 @@ This is Yuri's repo!
 
 I spend most of my time designing spacecraft trajectories. 
 
-### Useful public modules
+### Some public repos
 
 #### Python
 - [pyqlaw](https://github.com/Yuricst/pyqlaw) jit-compiled q-law for low-thrust transfers
