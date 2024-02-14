@@ -21,7 +21,7 @@ I spend most of my time designing spacecraft trajectories.
 - [Lambert.jl](https://github.com/Yuricst/Lambert.jl): Lambert solvers and MGA-1DSM implementation in Julia
 - [FullEphemerisPropagator.jl](https://github.com/Yuricst/FullEphemerisPropagator.jl): full-ephemeris spacecraft trajectory propagation with DifferentialEquations.jl
 - [joptimise.jl](https://github.com/Yuricst/joptimise): Ipopt/SNOPT wrapper in Julia
-- [R3BP.jl]([https://github.com/Yuricst/R3BP.jl/](https://github.com/Yuricst/R3BP.jl/)): trajectory design in three-body dynamics with Julia
+- [R3BP.jl](https://github.com/Yuricst/R3BP.jl/): trajectory design in three-body dynamics with Julia
 - [NLPSaUT.jl](https://github.com/Yuricst/NLPSaUT): wrapper for formulating NLP with JuMP
 - [PLOTLAB.jl](https://github.com/Yuricst/PLOTLAB): plotting with MATLAB engine from Julia
 
