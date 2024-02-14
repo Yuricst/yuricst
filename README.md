@@ -20,10 +20,10 @@ I spend most of my time designing spacecraft trajectories.
 #### Julia
 - [Lambert.jl](https://github.com/Yuricst/Lambert.jl): Lambert solvers and MGA-1DSM implementation in Julia
 - [FullEphemerisPropagator.jl](https://github.com/Yuricst/FullEphemerisPropagator.jl): full-ephemeris spacecraft trajectory propagation with DifferentialEquations.jl
-- [joptimise](https://github.com/Yuricst/joptimise): Ipopt/SNOPT wrapper in Julia
-- [julia-R3BP](https://github.com/Yuricst/julia-R3BP): trajectory design in three-body dynamics with Julia
-- [NLPSaUT](https://github.com/Yuricst/NLPSaUT): wrapper for formulating NLP with JuMP
-- [PLOTLAB](https://github.com/Yuricst/PLOTLAB): plotting with MATLAB engine from Julia
+- [joptimise.jl](https://github.com/Yuricst/joptimise): Ipopt/SNOPT wrapper in Julia
+- [R3BP.jl]([https://github.com/Yuricst/R3BP.jl/](https://github.com/Yuricst/R3BP.jl/)): trajectory design in three-body dynamics with Julia
+- [NLPSaUT.jl](https://github.com/Yuricst/NLPSaUT): wrapper for formulating NLP with JuMP
+- [PLOTLAB.jl](https://github.com/Yuricst/PLOTLAB): plotting with MATLAB engine from Julia
 
 #### MATLAB
 - [memoize-fmincon](https://github.com/Yuricst/memoize-fmincon): memoized fmincon wrapper for optimization with complex objective & constraint functions
