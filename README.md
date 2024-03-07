@@ -17,7 +17,7 @@ I spend most of my time designing spacecraft trajectories.
 - [R3BP.jl](https://github.com/Yuricst/R3BP.jl/): trajectory design in three-body dynamics with Julia
 - [NLPSaUT.jl](https://github.com/Yuricst/NLPSaUT): wrapper for formulating NLP with JuMP
 - [PLOTLAB.jl](https://github.com/Yuricst/PLOTLAB): plotting with MATLAB engine from Julia
-- 
+  
 #### Python
 - [pyqlaw](https://github.com/Yuricst/pyqlaw) jit-compiled q-law for low-thrust transfers
 - [parivp](https://github.com/Yuricst/parivp) solving IVPs in parallel in Python
