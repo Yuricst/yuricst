@@ -10,13 +10,6 @@ I spend most of my time designing spacecraft trajectories.
 
 ### Some public repos
 
-#### Python
-- [pyqlaw](https://github.com/Yuricst/pyqlaw) jit-compiled q-law for low-thrust transfers
-- [parivp](https://github.com/Yuricst/parivp) solving IVPs in parallel in Python
-- [polaris](https://github.com/Yuricst/polaris): custom astrodynamics library implemented in Python
-- [pygmo-helper](https://github.com/Yuricst/pygmo-helper): helper for constructing problems in [`pygmo`](https://esa.github.io/pygmo2/)
-- [trajplotlib](https://github.com/Yuricst/trajplotlib): helper toolkit for trajectory plots using matplotlib
-
 #### Julia
 - [Lambert.jl](https://github.com/Yuricst/Lambert.jl): Lambert solvers and MGA-1DSM implementation in Julia
 - [FullEphemerisPropagator.jl](https://github.com/Yuricst/FullEphemerisPropagator.jl): full-ephemeris spacecraft trajectory propagation with DifferentialEquations.jl
@@ -24,6 +17,13 @@ I spend most of my time designing spacecraft trajectories.
 - [R3BP.jl](https://github.com/Yuricst/R3BP.jl/): trajectory design in three-body dynamics with Julia
 - [NLPSaUT.jl](https://github.com/Yuricst/NLPSaUT): wrapper for formulating NLP with JuMP
 - [PLOTLAB.jl](https://github.com/Yuricst/PLOTLAB): plotting with MATLAB engine from Julia
+- 
+#### Python
+- [pyqlaw](https://github.com/Yuricst/pyqlaw) jit-compiled q-law for low-thrust transfers
+- [parivp](https://github.com/Yuricst/parivp) solving IVPs in parallel in Python
+- [polaris](https://github.com/Yuricst/polaris): custom astrodynamics library implemented in Python
+- [pygmo-helper](https://github.com/Yuricst/pygmo-helper): helper for constructing problems in [`pygmo`](https://esa.github.io/pygmo2/)
+- [trajplotlib](https://github.com/Yuricst/trajplotlib): helper toolkit for trajectory plots using matplotlib
 
 #### MATLAB
 - [memoize-fmincon](https://github.com/Yuricst/memoize-fmincon): memoized fmincon wrapper for optimization with complex objective & constraint functions
@@ -31,7 +31,6 @@ I spend most of my time designing spacecraft trajectories.
 #### Misc
 - [fortran-fantome](https://github.com/Yuricst/fortran-astrodynamics): Fortran subroutines for doing astrodynamics homework faster! 
 - [nadesiko-kidou](https://github.com/Yuricst/nadesiko-kidou): trajectory design in nadesiko3
-
 
 ### Work
 - [RsearchGate](https://www.researchgate.net/profile/Yuri-Shimane)
