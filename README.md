@@ -27,7 +27,8 @@ I spend most of my time designing spacecraft trajectories.
 
 #### MATLAB
 - [memoize-fmincon](https://github.com/Yuricst/memoize-fmincon): memoized fmincon wrapper for optimization with complex objective & constraint functions
-
+- [DirectMRLT](https://github.com/Yuricst/DirectMRLT): multi-revolution low-thrust trajectory optimization using direct method & collocation
+ 
 #### Misc
 - [fortran-fantome](https://github.com/Yuricst/fortran-astrodynamics): Fortran subroutines for doing astrodynamics homework faster! 
 - [nadesiko-kidou](https://github.com/Yuricst/nadesiko-kidou): trajectory design in nadesiko3
