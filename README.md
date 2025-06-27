@@ -11,7 +11,7 @@ I spend most of my time designing spacecraft trajectories.
 ### Some public repos
 
 #### Julia
-- [FullEphemerisPropagator.jl](https://github.com/Yuricst/FullEphemerisPropagator.jl): full-ephemeris spacecraft trajectory propagation with DifferentialEquations.jl
+- [HFEM.jl](https://github.com/Yuricst/HFEM.jl): full-ephemeris spacecraft trajectory propagation with DifferentialEquations.jl
 - [Lambert.jl](https://github.com/Yuricst/Lambert.jl): Lambert solvers and MGA-1DSM implementation in Julia
 - [NLPSaUT.jl](https://github.com/Yuricst/NLPSaUT): wrapper for formulating NLP with JuMP
 - [PLOTLAB.jl](https://github.com/Yuricst/PLOTLAB): plotting with MATLAB engine from Julia
