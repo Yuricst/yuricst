@@ -12,6 +12,7 @@ I spend most of my time designing spacecraft trajectories.
 
 #### Julia
 - [HighFidelityEphemerisModel.jl](https://github.com/Yuricst/HighFidelityEphemerisModel.jl): full-ephemeris spacecraft trajectory propagation with DifferentialEquations.jl
+- [PrettyTrajectory.jl](https://github.com/Yuricst/PrettyTrajectory.jl): for plotting & animating trajectories
 - [Lambert.jl](https://github.com/Yuricst/Lambert.jl): Lambert solvers and MGA-1DSM implementation in Julia
 - [NLPSaUT.jl](https://github.com/Yuricst/NLPSaUT): wrapper for formulating NLP with JuMP
 - [PLOTLAB.jl](https://github.com/Yuricst/PLOTLAB): plotting with MATLAB engine from Julia
